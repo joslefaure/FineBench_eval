@@ -1,0 +1,18 @@
+{
+    "model": {
+        "mPLUG-Owl3": {}
+
+    },
+    "data": {
+        "StreamingVideoActionQA": {
+            "class": "FineBench",
+            "dataset": "FineBench",
+            "data_root": "your/data/root",
+            "buffer_size": 4,
+            "mode": "window",
+            "spatial_grounding": false,
+            "nframe": 8,
+            "use_subtitle": false
+        }
+    }
+}
