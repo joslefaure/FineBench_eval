@@ -1,5 +1,4 @@
 ## This repo is a fork of VLMEvalKit to test our FineBench Dataset
-Download the dataset from https://huggingface.co/datasets/FINEBENCH/FineBench
 
 ### Run FineBench
 
